@@ -11,34 +11,136 @@
           "id": "android-fundamentals"
         },
         {
-          "id": "ios-fundamentals"
-        },
-        {
-          "id": "git-and-github-fundamentals"
-        },
-        {
-          "name": "Fundamentos de DevOps",
-          "short-description": "Descricao do Cartao",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "name": "React - começando",
+          "description": "Sua primeira aplicação com React Native",
+          "keyObjectives": ["Entender o que é o React Native, as semelhanças e diferenças em relação ao React, construindo uma base de conhecimento do zero.", 
+          "Aprender a configurar o ambiente de execução do React Native",
+          "Criar seu primeiro aplicativo com os fundamentos do React Native."],
           "contents": [
             {
               "type": "SITE",
-              "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
-              "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
+              "title": "Introdução ao React Native",
+              "link": "https://reactnative.dev/docs/intro-react"
             },
             {
-              "type": "SITE",
-              "title": "Entrega Contínua: confiabilidade e qualidade na implantacao de software",
-              "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
+              "type": "YOUTUBE",
+              "title": "Rocketseat: Iniciando no React Native em 2022",
+              "link": "https://www.youtube.com/watch?v=ApSHnjXeAq0"
             },
             {
+              "type": "PODCAST",
+              "title": "Hipsters.tech: #148 React Native",
+              "link": "https://www.hipsters.tech/react-native-hipsters-148/"
+            },
+            {
+              "type": "PODCAST",
+              "title": "DNE: #263 React Native",
+              "link": "https://devnaestrada.com.br/2020/07/17/react-native.html"
+            },
+            {
+              "type": "PODCAST",
+              "title": "Lambda3: #122 React Native",
+              "link": "https://www.lambda3.com.br/2018/12/lambda3-podcast-122-react-native/"
+            }
+          ],
+          "alura-contents": [
+            {
               "type": "SITE",
-              "title": "The Twelve-Factor App: Metodologia para construcao de aplicacões robustas",
-              "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
+              "title": "React e React Native: O poder da dobradinha",
+              "link": "https://alura.com.br/extra/alura-mais/react-e-react-native-o-poder-da-dobradinha-c1037"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Como começar com React Native?",
+              "link": "https://www.alura.com.br/artigos/como-comecar-com-react-native"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Configurando o ambiente React Native",
+              "link": "https://www.alura.com.br/artigos/configurando-o-ambiente-react-native"
+            },
+            {
+              "type": "COURSE",
+              "title": "React Native: criando um app",
+              "link": "hhttps://alura.com.br/course/react-native-comecando-zero"
             }
           ]
+        },
+        {
+          "name": "React - componentes",
+          "description": "Componentes React",
+          "keyObjectives": ["O React permite definir componentes como classes ou funções. Componentes definidos como classes fornecem mais recursos. Eles aceitam entradas arbitrárias (chamadas \"props\") e retornam elementos React descrevendo o que deve aparecer na tela.",
+          "Para que servem e como funcionam componentes"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "React: Documentação - Componentes e Props",
+              "link": "https://pt-br.reactjs.org/docs/components-and-props.html#gatsby-focus-wrapper"
+            },
+            {
+              "type": "SITE",
+              "title": "React Native: Core Components and Native Components",
+              "link": "https://reactnative.dev/docs/intro-react-native-components"              
+            },
+            {
+              "type": "SITE",
+              "title": "React - Componentes controlados",
+              "link": "https://pt-br.reactjs.org/docs/forms.html#controlled-components"
+            },
+            {
+              "type": "SITE",
+              "title": "React - Componentes não controlados",
+              "link": "https://pt-br.reactjs.org/docs/uncontrolled-components.html"
+            },
+            {
+              "type": "SITE",
+              "title": "React - Ciclo de vida dos componentes",
+              "link": "https://pt-br.reactjs.org/docs/state-and-lifecycle.html"
+            }
+          ],
+          "alura-contents": [
+            {
+              "type": "ARTICLE",
+              "title": "React Native: componentes e unidades de medida",
+              "link": "https://www.alura.com.br/artigos/react-native-componentes-unidades-de-medida"
+            }, {
+              "type": "SITE",
+              "title": "Ciclo de vida de um componente React",
+              "link": "https://cursos.alura.com.br/extra/alura-mais/ciclo-de-vida-de-um-componente-react-c1333"
+            }
+          ]
+          },
+        {
+            "name": "React - props",
+            "description": "Componentes React",
+            "keyObjectives": ["Props são um objeto que é injetado em componentes e fornece alguns dados que podem ser compartilhados entre outros componentes em um fluxo de dados unidirecional, de um elemento pai para um elemento filho. Props são de somente leitura.",
+            "Como passar props",
+            "Como manipular props"],
+            "contents": [
+              {
+                "type": "SITE",
+                "title": "React Native: Props",
+                "link": "https://reactnative.dev/docs/props"
+              },
+              {
+                "type": "SITE",
+                "title": "React: Documentação - Componentes e Props",
+                "link": "https://pt-br.reactjs.org/docs/components-and-props.html#gatsby-focus-wrapper"
+              },
+              {
+                "type": "SITE",
+                "title": "React: Render Props",
+                "link": "https://pt-br.reactjs.org/docs/render-props.html#gatsby-focus-wrapper"
+              }
+            ]
+        },
+        {
+          "id": "react-hooks-state"
+        },
+        {
+          "id": "react-hooks-effect"
         }
+        
       ]
     },
     {
