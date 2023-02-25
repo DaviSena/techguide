@@ -11,7 +11,7 @@
           "id": "android-fundamentals"
         },
         {
-          "name": "React - começando",
+          "name": "React - Começando",
           "description": "Sua primeira aplicação com React Native",
           "keyObjectives": ["Entender o que é o React Native, as semelhanças e diferenças em relação ao React, construindo uma base de conhecimento do zero.", 
           "Aprender a configurar o ambiente de execução do React Native",
@@ -41,9 +41,7 @@
               "type": "PODCAST",
               "title": "Lambda3: #122 React Native",
               "link": "https://www.lambda3.com.br/2018/12/lambda3-podcast-122-react-native/"
-            }
-          ],
-          "alura-contents": [
+            },
             {
               "type": "SITE",
               "title": "React e React Native: O poder da dobradinha",
@@ -60,14 +58,14 @@
               "link": "https://www.alura.com.br/artigos/configurando-o-ambiente-react-native"
             },
             {
-              "type": "COURSE",
+              "type": "ALURAPLUS",
               "title": "React Native: criando um app",
               "link": "hhttps://alura.com.br/course/react-native-comecando-zero"
             }
           ]
         },
         {
-          "name": "React - componentes",
+          "name": "React - Componentes",
           "description": "Componentes React",
           "keyObjectives": ["O React permite definir componentes como classes ou funções. Componentes definidos como classes fornecem mais recursos. Eles aceitam entradas arbitrárias (chamadas \"props\") e retornam elementos React descrevendo o que deve aparecer na tela.",
           "Para que servem e como funcionam componentes"],
@@ -96,14 +94,13 @@
               "type": "SITE",
               "title": "React - Ciclo de vida dos componentes",
               "link": "https://pt-br.reactjs.org/docs/state-and-lifecycle.html"
-            }
-          ],
-          "alura-contents": [
+            },
             {
               "type": "ARTICLE",
               "title": "React Native: componentes e unidades de medida",
               "link": "https://www.alura.com.br/artigos/react-native-componentes-unidades-de-medida"
-            }, {
+            }, 
+            {
               "type": "SITE",
               "title": "Ciclo de vida de um componente React",
               "link": "https://cursos.alura.com.br/extra/alura-mais/ciclo-de-vida-de-um-componente-react-c1333"
@@ -111,7 +108,7 @@
           ]
           },
         {
-            "name": "React - props",
+            "name": "React - Props",
             "description": "Componentes React",
             "keyObjectives": ["Props são um objeto que é injetado em componentes e fornece alguns dados que podem ser compartilhados entre outros componentes em um fluxo de dados unidirecional, de um elemento pai para um elemento filho. Props são de somente leitura.",
             "Como passar props",
@@ -174,6 +171,18 @@
       "cards": [
         {
           "id": "git-and-github-fundamentals"
+        },
+        {
+          "id": "http-fundamentals"
+        },
+        {
+          "id":"command-line-fundamentals"
+        },
+        {
+          "id": "json"
+        },
+        {
+          "id": "yarn"
         }
       ]
     },
