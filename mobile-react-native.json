@@ -11,7 +11,7 @@
           "id": "android-fundamentals"
         },
         {
-          "name": "React - Começando",
+          "name": "Criar uma aplicação React Native",
           "description": "Sua primeira aplicação com React Native",
           "keyObjectives": [
             "Entender o que é o React Native, as semelhanças e diferenças em relação ao React, construindo uma base de conhecimento do zero.",
@@ -28,6 +28,11 @@
               "type": "YOUTUBE",
               "title": "Rocketseat: Iniciando no React Native em 2022",
               "link": "https://www.youtube.com/watch?v=ApSHnjXeAq0"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Rocketseat: Como começar no React Native em 2023",
+              "link": "https://www.youtube.com/watch?v=CO4C9UVaFKk"
             },
             {
               "type": "PODCAST",
@@ -228,6 +233,40 @@
         },
         {
           "id": "yarn"
+        },
+        {
+          "name": "Regex - Regular Expression",
+          "keyobjectives": [
+            "",
+            ""
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "MDN Web Docs - Expressões Regulares",
+              "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_Expressions"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Regex: Um guia prático para expressões regulares",
+              "link": "https://medium.com/xp-inc/regex-um-guia-pratico-para-express%C3%B5es-regulares-1ac5fa4dd39f"
+            },           
+            {
+              "type": "ARTICLE",
+              "title": "JavaScript replace: manipulando Strings com regex",
+              "link": "https://www.aluracursos.com/blog/javascript-replace-manipulando-strings-regex"
+            },
+            {
+              "type": "COURSE",
+              "title": "Expressões regulares: capturando textos de forma mágica",
+              "link": "https://unibb.alura.com.br/course/expressoes-regulares"
+            },
+            {
+              "type": "SITE",
+              "title": "Regex 101",
+              "link": "https://regex101.com/"
+            }
+          ]
         }
       ]
     },
