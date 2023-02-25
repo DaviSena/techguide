@@ -60,7 +60,7 @@
               "link": "https://www.alura.com.br/artigos/configurando-o-ambiente-react-native"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "React Native: criando um app",
               "link": "hhttps://alura.com.br/course/react-native-comecando-zero"
             }
@@ -142,6 +142,42 @@
         },
         {
           "id": "react-hooks-effect"
+        },
+        {
+          "name": "React - Navegação",
+          "description": "Navegação com React Native",
+          "keyObjectives": [
+            "Entender como é feita a navegação entre telas no React Native utilizando a biblioteca React Navigation",
+            "Aprender a configurar o React Navigation na sua aplicação",
+            "Implementar a sua primeira navegação entre telas."
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "React Navigation: Getting started",
+              "link": "https://reactnavigation.org/docs/getting-started/"
+            },
+            {
+              "type": "SITE",
+              "title": "React Native Navigation: Tutorial with examples",
+              "link": "https://blog.logrocket.com/react-native-navigation-tutorial/"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Mario Souto - Como fazer troca de telas e navegação no React Native? feat. React Navigation",
+              "link": "https://www.youtube.com/watch?v=1myRO4ao6nA"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Rocketseat - Guia completo de navegação no React Native",
+              "link": "https://www.youtube.com/watch?v=Bbi4WItP-Uo"              
+            },
+            {
+              "type": "COURSE",
+              "title": "React Native: criando menu e navegando entre telas",
+              "link": "https://unibb.alura.com.br/course/react-native-criando-menu-navegando-telas"
+            }
+          ]
         }
       ]
     },
@@ -208,17 +244,17 @@
             {
               "type": "ARTICLE",
               "title": "Design System: o que é e quais os benefícios?",
-              "link": "https://medium.com/ipnetgrowthpartner/designsystemoquee438773dd811"
+              "link": "https://medium.com/ipnet-growth-partner/design-system-o-que-e-438773dd811"
             },
             {
               "type": "ARTICLE",
               "title": "Afinal, o que é Design System?",
-              "link": "https://brasil.uxdesign.cc/afinaloque%C3%A9designsystem448c257b0021"
+              "link": "https://brasil.uxdesign.cc/afinal-o-que-%C3%A9-design-system-448c257b0021"
             },
             {
               "type": "ARTICLE",
               "title": "O que são Design Tokens",
-              "link": "https://medium.com/pretux/designtokens112b2ee11ddf"
+              "link": "https://medium.com/pretux/design-tokens-112b2ee11ddf"
             },
             {
               "type": "YOUTUBE",
@@ -228,12 +264,12 @@
             {
               "type": "ARTICLE",
               "title": "O que é Design System?",
-              "link": "https://www.alura.com.br/artigos/oqueedesignsystem"
+              "link": "https://www.alura.com.br/artigos/o-que-e-design-system"
             },
             {
               "type": "ARTICLE",
               "title": "Design Systems: exemplos práticos",
-              "link": "https://www.alura.com.br/artigos/designsystemsexemplospraticos"
+              "link": "https://www.alura.com.br/artigos/design-systems-exemplos-praticos"
             },
             {
               "type": "YOUTUBE",
@@ -253,19 +289,22 @@
             {
               "type": "PODCAST",
               "title": "Hipsters.tech: Design Systems  Hipsters 170",
-              "link": "https://www.alura.com.br/podcast/hipsterstechdesignsystemshipsters170a399"
+              "link": "https://www.alura.com.br/podcast/hipsterstech-design-systems-hipsters-170-a399"
             },
             {
               "type": "PODCAST",
               "title": "Layers.tech: Design System – Layers ponto tech 36",
-              "link": "https://www.alura.com.br/podcast/layerstechdesignsystemlayerspontotech36a1056"
+              "link": "https://www.alura.com.br/podcast/layerstech-design-system-layers-ponto-tech-36-a1056"
             },
             {
               "type": "COURSE",
               "title": "Formação Design System",
-              "link": "https://www.alura.com.br/formacaodesignsystem"
+              "link": "https://www.alura.com.br/formacao-design-system"
             }
           ]
+        },
+        {
+          "id": "figma-fundamentals"
         }
       ]
     }
