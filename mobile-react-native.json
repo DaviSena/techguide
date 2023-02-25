@@ -13,9 +13,11 @@
         {
           "name": "React - Começando",
           "description": "Sua primeira aplicação com React Native",
-          "keyObjectives": ["Entender o que é o React Native, as semelhanças e diferenças em relação ao React, construindo uma base de conhecimento do zero.", 
-          "Aprender a configurar o ambiente de execução do React Native",
-          "Criar seu primeiro aplicativo com os fundamentos do React Native."],
+          "keyObjectives": [
+            "Entender o que é o React Native, as semelhanças e diferenças em relação ao React, construindo uma base de conhecimento do zero.",
+            "Aprender a configurar o ambiente de execução do React Native",
+            "Criar seu primeiro aplicativo com os fundamentos do React Native."
+          ],
           "contents": [
             {
               "type": "SITE",
@@ -67,8 +69,10 @@
         {
           "name": "React - Componentes",
           "description": "Componentes React",
-          "keyObjectives": ["O React permite definir componentes como classes ou funções. Componentes definidos como classes fornecem mais recursos. Eles aceitam entradas arbitrárias (chamadas \"props\") e retornam elementos React descrevendo o que deve aparecer na tela.",
-          "Para que servem e como funcionam componentes"],
+          "keyObjectives": [
+            "O React permite definir componentes como classes ou funções. Componentes definidos como classes fornecem mais recursos. Eles aceitam entradas arbitrárias (chamadas \"props\") e retornam elementos React descrevendo o que deve aparecer na tela.",
+            "Para que servem e como funcionam componentes"
+          ],
           "contents": [
             {
               "type": "SITE",
@@ -78,7 +82,7 @@
             {
               "type": "SITE",
               "title": "React Native: Core Components and Native Components",
-              "link": "https://reactnative.dev/docs/intro-react-native-components"              
+              "link": "https://reactnative.dev/docs/intro-react-native-components"
             },
             {
               "type": "SITE",
@@ -99,37 +103,39 @@
               "type": "ARTICLE",
               "title": "React Native: componentes e unidades de medida",
               "link": "https://www.alura.com.br/artigos/react-native-componentes-unidades-de-medida"
-            }, 
+            },
             {
               "type": "SITE",
               "title": "Ciclo de vida de um componente React",
               "link": "https://cursos.alura.com.br/extra/alura-mais/ciclo-de-vida-de-um-componente-react-c1333"
             }
           ]
-          },
+        },
         {
-            "name": "React - Props",
-            "description": "Componentes React",
-            "keyObjectives": ["Props são um objeto que é injetado em componentes e fornece alguns dados que podem ser compartilhados entre outros componentes em um fluxo de dados unidirecional, de um elemento pai para um elemento filho. Props são de somente leitura.",
+          "name": "React - Props",
+          "description": "Componentes React",
+          "keyObjectives": [
+            "Props são um objeto que é injetado em componentes e fornece alguns dados que podem ser compartilhados entre outros componentes em um fluxo de dados unidirecional, de um elemento pai para um elemento filho. Props são de somente leitura.",
             "Como passar props",
-            "Como manipular props"],
-            "contents": [
-              {
-                "type": "SITE",
-                "title": "React Native: Props",
-                "link": "https://reactnative.dev/docs/props"
-              },
-              {
-                "type": "SITE",
-                "title": "React: Documentação - Componentes e Props",
-                "link": "https://pt-br.reactjs.org/docs/components-and-props.html#gatsby-focus-wrapper"
-              },
-              {
-                "type": "SITE",
-                "title": "React: Render Props",
-                "link": "https://pt-br.reactjs.org/docs/render-props.html#gatsby-focus-wrapper"
-              }
-            ]
+            "Como manipular props"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "React Native: Props",
+              "link": "https://reactnative.dev/docs/props"
+            },
+            {
+              "type": "SITE",
+              "title": "React: Documentação - Componentes e Props",
+              "link": "https://pt-br.reactjs.org/docs/components-and-props.html#gatsby-focus-wrapper"
+            },
+            {
+              "type": "SITE",
+              "title": "React: Render Props",
+              "link": "https://pt-br.reactjs.org/docs/render-props.html#gatsby-focus-wrapper"
+            }
+          ]
         },
         {
           "id": "react-hooks-state"
@@ -137,7 +143,6 @@
         {
           "id": "react-hooks-effect"
         }
-        
       ]
     },
     {
@@ -146,7 +151,11 @@
         {
           "name": "Nome do Cartão Customizado 2",
           "description": "Descrição do Cartão 2",
-          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+          "keyObjectives": [
+            "Objetivo 1.2",
+            "Objetivo 2.2",
+            "Objetivo 3.2"
+          ],
           "contents": [
             {
               "type": "SITE",
@@ -176,7 +185,7 @@
           "id": "http-fundamentals"
         },
         {
-          "id":"command-line-fundamentals"
+          "id": "command-line-fundamentals"
         },
         {
           "id": "json"
@@ -187,8 +196,78 @@
       ]
     },
     {
-      "name": "Lado Direito do T",
-      "cards": []
+      "name": "UX & Design",
+      "cards": [
+        {
+          "name": "Design Systems",
+          "keyobjectives": [
+            "Um Design Systems (sistema de design) é uma coleção de componentes reutilizáveis, guiados por padrões claros, que podem ser colocados juntos para construir aplicações.",
+            "Criar e manter bibliotecas que serão consumidas e usadas como padrão para a construção de um projeto"
+          ],
+          "contents": [
+            {
+              "type": "ARTICLE",
+              "title": "Design System: o que é e quais os benefícios?",
+              "link": "https://medium.com/ipnetgrowthpartner/designsystemoquee438773dd811"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Afinal, o que é Design System?",
+              "link": "https://brasil.uxdesign.cc/afinaloque%C3%A9designsystem448c257b0021"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "O que são Design Tokens",
+              "link": "https://medium.com/pretux/designtokens112b2ee11ddf"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Caio Gonzalez: O que é Design System? / Guia para começar o seu próprio Design System",
+              "link": "https://www.youtube.com/watch?v=ajqbXpFVaAw"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "O que é Design System?",
+              "link": "https://www.alura.com.br/artigos/oqueedesignsystem"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Design Systems: exemplos práticos",
+              "link": "https://www.alura.com.br/artigos/designsystemsexemplospraticos"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Alura: Design System & Style Guide",
+              "link": "https://www.youtube.com/watch?v=rSLvpOqC5wQ"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Alura: Design Systems (com Charles Assunção)",
+              "link": "https://www.youtube.com/watch?v=MLGFctEtmYQ"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Alura: O que é Design System? | Hipsters.Talks",
+              "link": "https://www.youtube.com/watch?v=LNQ4fZbjqWM"
+            },
+            {
+              "type": "PODCAST",
+              "title": "Hipsters.tech: Design Systems  Hipsters 170",
+              "link": "https://www.alura.com.br/podcast/hipsterstechdesignsystemshipsters170a399"
+            },
+            {
+              "type": "PODCAST",
+              "title": "Layers.tech: Design System – Layers ponto tech 36",
+              "link": "https://www.alura.com.br/podcast/layerstechdesignsystemlayerspontotech36a1056"
+            },
+            {
+              "type": "COURSE",
+              "title": "Formação Design System",
+              "link": "https://www.alura.com.br/formacaodesignsystem"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
