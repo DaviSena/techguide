@@ -8,7 +8,10 @@
           "id": "typescript-fundamentals"
         },
         {
-          "id": ""
+          "id": "android-fundamentals"
+        },
+        {
+          "id": "ios-fundamentals"
         },
         {
           "id": "git-and-github-fundamentals"
@@ -69,14 +72,7 @@
       "cards": [
         {
           "id": "git-and-github-fundamentals"
-        },
-        {
-          "id": "android-fundamentals"
-        },
-        {
-          "id": "ios-fundamentals"
         }
-
       ]
     },
     {
