@@ -5,10 +5,10 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "id": "typescript-fundamentals"
+          "id": "javascript-fundamentals"
         },
         {
-          "id": "android-fundamentals"
+          "id": "typescript-fundamentals"
         },
         {
           "name": "Criar uma aplicação React Native",
@@ -190,24 +190,33 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado 2",
-          "description": "Descrição do Cartão 2",
+          "id": "android-fundamentals"
+        },
+        {
+          "id": "react-hooks-memo"
+        },
+        {
+          "id": "react-hooks-ref"
+        },
+        {
+          "name": "React Native - Biblioteca de Design System do BB",
+          "description": "Navegação com React Native",
           "keyObjectives": [
-            "Objetivo 1.2",
-            "Objetivo 2.2",
-            "Objetivo 3.2"
+            "Conhecer e utilizar a biblioteca de componentes do Design System (DLS) do Banco do Brasil"
           ],
           "contents": [
             {
               "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
+              "title": "Design Language System do Banco do Brasil",
+              "link": "https://ux.bb.com.br/dls"
+            },
+            {
+                "type": "SITE",
+                "title": "Biblioteca DLS BB: getting_started (Interno BB)",
+                "link": "https://react-native.dls.hm.bb.com.br/getting_started"
             }
           ]
-        },
-        {
-          "id": "apollo-client"
-        }
+          }
       ]
     },
     {
@@ -235,10 +244,11 @@
           "id": "yarn"
         },
         {
-          "name": "Regex - Regular Expression",
+          "name": "RegEx - Expressões Regulares",
           "keyobjectives": [
-            "",
-            ""
+            "Entender o fundamento das expressões regulares.",
+            "Aprender a utilizar as expressões regulares para buscar e substituir textos (strings).",
+            "Utilizar as expressões regulares na linguagem JavaScript."
           ],
           "contents": [
             {
@@ -254,7 +264,7 @@
             {
               "type": "ARTICLE",
               "title": "JavaScript replace: manipulando Strings com regex",
-              "link": "https://www.aluracursos.com/blog/javascript-replace-manipulando-strings-regex"
+              "link": "https://www.alura.com.br/artigos/javascript-replace-manipulando-strings-e-regex"
             },
             {
               "type": "COURSE",
@@ -296,15 +306,15 @@
               "link": "https://medium.com/pretux/design-tokens-112b2ee11ddf"
             },
             {
-              "type": "YOUTUBE",
-              "title": "Caio Gonzalez: O que é Design System? / Guia para começar o seu próprio Design System",
-              "link": "https://www.youtube.com/watch?v=ajqbXpFVaAw"
-            },
-            {
               "type": "ARTICLE",
               "title": "O que é Design System?",
               "link": "https://www.alura.com.br/artigos/o-que-e-design-system"
             },
+            {
+              "type": "YOUTUBE",
+              "title": "O que é Design System?",
+              "link": "https://www.alura.com.br/artigos/o-que-e-design-system"
+            }, 
             {
               "type": "ARTICLE",
               "title": "Design Systems: exemplos práticos",
@@ -339,6 +349,21 @@
               "type": "COURSE",
               "title": "Formação Design System",
               "link": "https://www.alura.com.br/formacao-design-system"
+            },
+            {
+              "type": "SITE",
+              "title": " Design Language System do Banco do Brasil",
+              "link": "https://ux.bb.com.br/dls"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Café Com UX de 19/03/2021 - Design System BB (Interno BB)",
+              "link": "https://web.microsoftstream.com/video/11e777f4-a21f-4f97-ad1f-ac8f01d8d228"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "BB React Con II - DLS (Interno BB)",
+              "link": "https://web.microsoftstream.com/video/9016f617-0a7b-4e42-b8a9-0cfa1195f1b3"
             }
           ]
         },
