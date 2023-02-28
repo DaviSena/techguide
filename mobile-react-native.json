@@ -8,9 +8,6 @@
           "id": "javascript-fundamentals"
         },
         {
-          "id": "typescript-fundamentals"
-        },
-        {
           "name": "Criar uma aplicação React Native",
           "description": "Sua primeira aplicação com React Native",
           "keyObjectives": [
@@ -175,7 +172,7 @@
             {
               "type": "YOUTUBE",
               "title": "Rocketseat - Guia completo de navegação no React Native",
-              "link": "https://www.youtube.com/watch?v=Bbi4WItP-Uo"              
+              "link": "https://www.youtube.com/watch?v=Bbi4WItP-Uo"
             },
             {
               "type": "COURSE",
@@ -190,7 +187,98 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
+          "id": "typescript-fundamentals"
+        },
+        {
           "id": "android-fundamentals"
+        },
+        {
+          "name": "iOS - Fundamentos",
+          "keyObjectives": [
+            "Conhecer a linguagem Swift para desenvolver Apps iOS.",
+            "Criar um projeto iOS com o XCode e rodar em um dispositivo físico ou virtual.",
+            "Aprender as principais funcionalidades da ferramento de desenvolvimento Xcode."
+          ],
+          "contents": [
+            {
+              "type": "PODCAST",
+              "title": "Hipsters.tech - #120 Desenvolvimento iOS com Swift ",
+              "link": "https://www.hipsters.tech/desenvolvimento-ios-com-swift-hipsters-120/"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "How to become an iOS Developer",
+              "link": "https://medium.com/bumble-tech/how-to-become-an-ios-developer-91aaa4719a91"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "How to become a professional iOS developer",
+              "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "So You Want To Make iPhone Apps? 10 Projects For Beginners",
+              "link": "https://www.makeuseof.com/tag/want-make-iphone-apps-6-projects-beginners/"
+            },
+            {
+              "type": "SITE",
+              "title": "How to become a professional iOS developer",
+              "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Introduction to Xcode (Free)",
+              "link": "https://www.pluralsight.com/courses/xcode-ios-fundamentals"
+            },
+            {
+              "type": "COURSE",
+              "title": "Xcode Debugging (Free)",
+              "link": "https://www.udacity.com/course/xcode-debugging--ud774"
+            },
+            {
+              "type": "COURSE",
+              "title": "Swift - Build Great IOS Apps (Free)",
+              "link": "https://www.udemy.com/course/build-great-ios-apps-with-swift/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-MlihJ_LjnhWT5TBMjSurzQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=CuIbQrBnhiw"
+            },
+            {
+              "type": "COURSE",
+              "title": "The Complete Swift iOS Developer - Create Real Apps in Swift (Free)",
+              "link": "https://www.udemy.com/course/the-complete-ios-10-developer-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-avNNHEJpk2ksxegcfuEVow&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80"
+            },
+            {
+              "type": "COURSE",
+              "title": "This Is How You Make iPhone Apps - iOS Development Course (Free)",
+              "link": "https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"
+            },
+            {
+              "type": "COURSE",
+              "title": "iOS App Development For Beginners - No Swift Skill Required (Free)",
+              "link": "https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"
+            },
+            {
+              "type": "COURSE",
+              "title": "iOS Fundamentals (Free)",
+              "link": "https://www.pluralsight.com/courses/ios-11-fundamentals?clickid=R8CXgcTh6xyNTqYSvDyHPxH9UkAy4qwmZx3MyU0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius"
+            },
+            {
+              "type": "COURSE",
+              "title": "Basic Swift Programming and iOS - Free Preview (Free)",
+              "link": "https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign"
+            },
+            {
+              "type": "COURSE",
+              "title": "Introduction to iOS 11 Development: Swift 4 and Xcode 9 (Free)",
+              "link": "https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign"
+            },
+            {
+              "type": "COURSE",
+              "title": "Formação Desenvolva seu primeiro app em iOS",
+              "link": "https://www.alura.com.br/formacao-ios?gclid=CjwKCAiArY2fBhB9EiwAWqHK6iu6pClpJDn7-Oko47z7NzSUGFhhQjnlP8Swq-RL6_nkPRZD6aZVyhoC29YQAvD_BwE"
+            }
+          ]
+        },
+        {
+          "id": "react-hooks-callback"
         },
         {
           "id": "react-hooks-memo"
@@ -199,8 +287,16 @@
           "id": "react-hooks-ref"
         },
         {
+          "id": "jest"
+        },
+        {
+          "id": "javascript-callbacks-promises"
+        },
+        {
+          "id": "javascript-errorhandling"
+        },
+        {
           "name": "React Native - Biblioteca de Design System do BB",
-          "description": "Navegação com React Native",
           "keyObjectives": [
             "Conhecer e utilizar a biblioteca de componentes do Design System (DLS) do Banco do Brasil"
           ],
@@ -211,17 +307,53 @@
               "link": "https://ux.bb.com.br/dls"
             },
             {
-                "type": "SITE",
-                "title": "Biblioteca DLS BB: getting_started (Interno BB)",
-                "link": "https://react-native.dls.hm.bb.com.br/getting_started"
+              "type": "SITE",
+              "title": "Biblioteca DLS BB: Getting started (Interno BB)",
+              "link": "https://react-native.dls.hm.bb.com.br/getting_started"
             }
           ]
-          }
+        }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": []
+      "cards": [
+        {
+          "id": "lottie"
+        },
+        {
+          "id": "react-developer-tools"
+        },
+        {
+          "name": "React Native - Performance",
+          "keyobjectives": [
+            "Entender as melhores práticas para melhoria da Performance de aplicativos React Native.",
+            "Aprender a utilizar ferramentas para monitorar a performance do seu aplicativo ."
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "React Native - Performance Overview",
+              "link": "https://reactnative.dev/docs/performance"
+            },
+            {
+              "type": "SITE",
+              "title": "React Native - Optimizing Flatlist Configuration",
+              "link": "https://reactnative.dev/docs/optimizing-flatlist-configuration"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Optimizing React Native Performance",
+              "link": "https://medium.com/@mtcpe.fy/optimizing-react-native-performance-best-guide-f5172bd7bbbc"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Measuring and Improving React Native Performance | Alexandre Moureaux | App.js Conf 2022",
+              "link": "https://www.youtube.com/watch?v=5Q3VCgKV0GE"
+            }
+          ]
+        }
+      ]
     }
   ],
   "collaborations": [
@@ -260,7 +392,7 @@
               "type": "ARTICLE",
               "title": "Regex: Um guia prático para expressões regulares",
               "link": "https://medium.com/xp-inc/regex-um-guia-pratico-para-express%C3%B5es-regulares-1ac5fa4dd39f"
-            },           
+            },
             {
               "type": "ARTICLE",
               "title": "JavaScript replace: manipulando Strings com regex",
@@ -314,7 +446,7 @@
               "type": "YOUTUBE",
               "title": "O que é Design System?",
               "link": "https://www.alura.com.br/artigos/o-que-e-design-system"
-            }, 
+            },
             {
               "type": "ARTICLE",
               "title": "Design Systems: exemplos práticos",
@@ -369,6 +501,42 @@
         },
         {
           "id": "figma-fundamentals"
+        },
+        {
+          "name": "Acessibilidade",
+          "keyobjectives": [
+            "Desenvolver seu Aplicativo para que possa ser usado por todos, incluindo pessoas com necessidades de acessibilidades.",
+            "Aumentar a visibilidade do texto.",
+            "Usar controles grandes e simples.",
+            "Descrever cada elemento de IU"
+          ],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Tornar os apps mais acessíveis",
+              "link": "https://developer.android.com/guide/topics/ui/accessibility/apps?hl=pt-br#text-visibility"
+            },
+            {
+              "type": "SITE",
+              "title": "Princípios para melhorar a acessibilidade do app",
+              "link": "https://developer.android.com/guide/topics/ui/accessibility/principles?hl=pt-br"
+            },
+            {
+              "type": "SITE",
+              "title": "Testar a acessibilidade do seu app",
+              "link": "https://developer.android.com/guide/topics/ui/accessibility/testing?hl=pt-br"
+            },
+            {
+              "type": "SITE",
+              "title": "React Native - Accessibility",
+              "link": "https://reactnative.dev/docs/accessibility"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Rocketseat - Criando apps mobile acessíveis com React Native ",
+              "link": "https://www.youtube.com/watch?v=X52XE9Jgj7Y"
+            }
+          ]
         }
       ]
     }
